@@ -1,4 +1,4 @@
-# updated_calculator
+# Simple calculator with flutter
 
 A new Flutter project.
 
